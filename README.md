@@ -29,6 +29,13 @@ Se generaron visualizaciones para evaluar calidad del dato, distribución de res
 - Python (pandas)
 - CSV (dataset ficticio)
 
+## Impacto
+
+Este proyecto demuestra el proceso de validación y preparación de datos clínicos previo a su uso en investigación.
+
+La identificación de registros incompletos, outliers y duplicados permite mejorar la confiabilidad de indicadores vinculados al uso de dispositivos médicos.
+
+
 ## Estructura
 - `dataset/` datos ficticios (`data.csv`) y salida limpia (`data_clean.csv`)
 - `notebooks/` script de validación (`01_validation.py`)
