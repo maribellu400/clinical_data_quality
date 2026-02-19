@@ -13,6 +13,18 @@ vinculados al uso de dispositivos médicos.
 - Generación de variables derivadas: edad, IMC, etc
 - Métricas de Data Quality para habilitar análisis e investigación
 
+Se generaron visualizaciones para evaluar calidad del dato, distribución de resultados y comportamiento por tipo de dispositivo.
+## 📈 Visualizaciones
+
+### Distribución de resultados
+![Distribución](images/result_distribution.png)
+
+### Calidad de datos
+![Calidad](images/data_quality_status.png)
+
+### Promedio por dispositivo
+![Promedio](images/avg_result_device.png)
+
 ## Tecnologías
 - Python (pandas)
 - CSV (dataset ficticio)
